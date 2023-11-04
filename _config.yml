@@ -4,7 +4,7 @@
 
 title: Santiago Arróniz # the website title (if blank, full name will be used instead)
 first_name: Santiago
-middle_name:
+middle_name: AA
 last_name: Arróniz
 email: sarroniz@indiana.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
