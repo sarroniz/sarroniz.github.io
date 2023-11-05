@@ -2,96 +2,101 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Santiago Arróniz
     - name: Date of Birth
-      value: 14th March 1879
+      value: 5th June 1993
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate
+      institution: Indiana University, Bloomington, IN, United States
+      year: Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Hispanic / Computational Linguistics
+    - title: Master of Arts
+      institution: University of Seville, Seville, Spain
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Linguistics, Literature, and Cultural Studies
+    - title: Master of Arts
+      institution: Indiana University, Bloomington, IN, United States
+      year: 2018
+      description:
+        - Hispanic Linguistics
+
+    - title: Erasmus Exchange Program
+      institution: Manchester Metropolitan University, Manchester, United Kingdom
+      year: 2014
+      description:
+        - Faculty of Languages, Linguistics and TESOL
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Instructor
+      institution: Department of Spanish and Portuguese, Indiana University
+      year: 2016 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "HISP-S 150: Elementary Spanish II (Fall 2016)"
+        - "HISP-S 200: Second-year Spanish I (Fall 2017; Spring 2018)"
+        - "HISP-S 250: Second-year Spanish II (Spring 2017; Fall 2019)"
+        - "HISP-S 280: Spanish Grammar in Context (Spring 2020)"
+        - "HISP-S 326: Introduction to Hispanic Linguistics (Fall 2020; Spring 2021)"
+        - "HISP-S 315: Spanish in the Business World (Fall 2021)"
+        - "HISP-S 280: Spanish Grammar in Context for Heritage Speakers (Spring 2022)"
+        - "HISP-S 308: Composition and Conversation in Spanish (Fall 2022)"
+        - "HISP-S 308: Composition and Conversation in Spanish (Spring 2023)"
+        - "HISP-S 308: Composition and Conversation in Spanish (Fall 2023)"
+    
+    - title: IUHPFL Language Instructor - León (Spain)
+      institution: IU Honors Program in Foreign Languages, Bloomington, IN
+      year: summer 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Hispanic Linguistics Instructor
+        - Financial Coordinator
+    
+    - title: "Research Assistant - Department of Spanish & Portuguese"
+      institution: Prof. Erik Willis (Indiana University)
+      year: Summer 2020
       description:
+        - Different tasks related to the phonetic analysis of different aspects of Spanish.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: IUHPFL Language Instructor - León (Spain)
+      institution: IU Honors Program in Foreign Languages, Bloomington, IN
+      year: summer 2018
+      description:
+        - Hispanic Literatures Instructor
+        - Public Relations Coordinator
 
-- title: Open Source Projects
+    - title: English Language Instructor
+      institution: Kids&Joy Language School (Moron de la Frontera, Spain)
+      year: 2018-2019
+      description:
+        - "A1/A2: Elementary English for children (2 sections)"
+        - "B1: Low Intermediate English for teenagers (3 sections)"
+        - "B1: Low Intermediate English for adults (4 sections)"
+        - "B2: Upper Intermediate English for teenagers (2 sections)"
+        
+    - title: Internship at the Office of International Services
+      institution: University of Seville, Seville, Spain
+      year: 2015-2016
+      description:
+        - Tasks included administrative work, attention to international students, email management and technical support.
+
+- title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: MIND (Motivación, Inspiración, Dedicación) Award for Impactful Teaching
+      year: 2023
+      institution: IUB Alpha Alpha Phi of Sigma Delta Pi
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Outstanding Associate Instructor Teaching Award
+      year: 2023
+      institution: Department of Spanish and Portuguese, IU
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Agapito Rey - Departmental Travel Award
+      year: 2022
+      institution: Department of Spanish and Portuguese, IU
