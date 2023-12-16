@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intonation
-description: Categorizing sentence meaning
+description: Categorizing sentence meaning in Spanish
 img: /assets/img/intonation1.jpg
 importance: 1
 category: research
