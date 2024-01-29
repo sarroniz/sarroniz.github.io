@@ -7,6 +7,9 @@ inline: false
 
 **Arróniz, S. & Willis, E.** _From one fricative to another: a perception experiment of coda /s/ and voiced phonemic stops as fricatives in Western Andalusian Spanish._ International Conference on Experimental Phonetics. Universidade de Vigo, Spain. June 2023.
 
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://assets/ppts/Vigo2023_share.pptx]' width='100%' height='600px' frameborder='0'>
+
+
 ## Abstract
 
 This paper examines the interplay of two phonological processes in Spanish, the debuccalization of /s/ and spirantization of /bdg/ in a Western Andalusian variety of Spanish. The reduction of /s/ in coda position has been widely reported to occur in many different varieties of Spanish. Specifically, this lenition process has been described to result in an aspirated variant (Bybee, 2000; Hualde, 2005; Lipski, 1994), a glottal occlusion (Luna, 2010; Valentín- Márquez, 2006), or as a total elision (Poplack, 1980). A different well-known aspect of Spanish is the spirantization of /b d g/, by which these phonemes are produced as the continuant consonants in specific contexts. Traditional research of Spanish describes spirantization in terms of two distinct allophones in complementary distribution. The stop allophones [b d g] are found after pause, after a nasal, and, in the case of /d/, also after a lateral, while the approximant allophones [β̞ ð̞ ɣ̞] are found elsewhere (Navarro Tomás, 1918/1977; Martínez Celdrán 1984, 2022).  
