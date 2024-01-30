@@ -7,7 +7,7 @@ inline: false
 
 **Arróniz, S. & Willis, E.** _From one fricative to another: a perception experiment of coda /s/ and voiced phonemic stops as fricatives in Western Andalusian Spanish._ International Conference on Experimental Phonetics. Universidade de Vigo, Spain. June 2023.
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.sarroniz.com/assets/ppts/Vigo2023_share.pptx]' width='100%' height='600px' frameborder='0'>
+<iframe src="https://indiana.sharepoint.com/sites/O365-Santik/_layouts/15/Doc.aspx?sourcedoc={8a2f95b9-eab0-4302-b9ad-27dbf6b12e11}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
 ## Abstract
