@@ -3,8 +3,8 @@ layout: post
 title: Introduction to Unix
 date: 2023-07-15 15:09:00
 description: A basic tutorial to Unix for Computational Linguistics
-tags: CL tutorial
-categories: 
+tags: cl tutorial code
+categories:
 featured: true
 ---
 
