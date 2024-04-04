@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Phonolog # blog_name will be displayed in your blog page
+blog_name: phlog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: my personal blog about sound and technology
+blog_description: my blog about language and technology
 permalink: /blog/:year/:title/
 
 # Pagination
