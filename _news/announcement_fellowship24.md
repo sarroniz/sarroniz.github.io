@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Award* College of Arts and Sciences (IU) - _Dissertation Completion Fellowship_
+title: Award - College of Arts and Sciences (IU) _Dissertation Completion Fellowship_
 date: 2024-04-28
 inline: false
 ---
