@@ -7,9 +7,6 @@ inline: false
 
 **Arróniz, S.** _Gradience vs. Categories: Compensatory Voiced Fricatives and the role of duration in Western Andalusian Spanish._ Hispanic Linguistics Symposium. University of Nebraska, Omaha. October 2024.
 
-<iframe src="https://indiana-my.sharepoint.com/:p:/r/personal/sarroniz_iu_edu/Documents/Public%20Sharing/HLS_24_PPT.pptx?d=w797afc23d3cd42ca8fd64468e9a9b4b4&csf=1&web=1&e=K465MO" width="476px" height="288px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-
-
 
 ## Abstract
 
