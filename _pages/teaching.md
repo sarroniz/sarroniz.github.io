@@ -5,7 +5,7 @@ title: teaching
 description: materials for courses I currently teach or taught in the past
 nav: true
 nav_order: 5
-display_categories: [Indiana University, Workshops, other]
+display_categories: [IU, workshops, other]
 horizontal: false
 ---
 

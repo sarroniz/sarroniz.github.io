@@ -6,7 +6,7 @@ title: Santiago Arróniz # the website title (if blank, full name will be used i
 first_name: Santiago
 middle_name: 
 last_name: Arróniz
-email: sarroniz@indiana.edu
+email: sarroniz@iu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -48,7 +48,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
