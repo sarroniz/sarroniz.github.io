@@ -7,12 +7,12 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$blue-color};
-  --global-hover-color: #{$blue-color-dark};
+  --global-theme-color: #{$blue-color};           // main link & accent color
+  --global-hover-color: #{$blue-color-dark};      // hover state
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
+  --global-footer-bg-color: #{$grey-color-dark};  // footer background
+  --global-footer-text-color: #{$grey-color};     // footer text
+  --global-footer-link-color: #{$white-color};    // footer links
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
