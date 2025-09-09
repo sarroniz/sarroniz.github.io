@@ -161,8 +161,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-defaults:
-  layout: post
   
 collections:
   news:
