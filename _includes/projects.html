@@ -12,6 +12,9 @@
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}
+        <p><strong>{{ project.title }}</strong></p>
+        <p>{{ project.description }}</p>
+        <p>{{ project.category }}</p>
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>

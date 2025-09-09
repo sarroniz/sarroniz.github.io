@@ -1,0 +1,11 @@
+<div class="grid-item">
+  <a href="{{ item.redirect | default: item.url | relative_url }}">
+    <div class="card hoverable">
+      <div class="card-body">
+        <h2 class="card-title">{{ item.title }}</h2>
+        <p class="card-text">{{ item.description }}</p>
+        <p class="card-meta">{{ item.category }}</p>
+      </div>
+    </div>
+  </a>
+</div>

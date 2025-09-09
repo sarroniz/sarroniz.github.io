@@ -161,11 +161,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
+defaults:
+  layout: post
+  
 collections:
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
   projects:
@@ -173,6 +173,7 @@ collections:
     permalink: /projects/:path/
   teaching:
     output: true
+    sort_by: importance
     permalink: /teaching/:path/
 
 announcements:
