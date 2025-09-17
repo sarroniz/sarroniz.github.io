@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SEÑAL
-description: A tool for evaluating compositions in Spanish
+description: 
 img: /assets/img/senalapp.jpg
 importance: 1
 category: research

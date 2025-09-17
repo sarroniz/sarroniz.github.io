@@ -1,11 +1,14 @@
+<!-- _includes/teaching_card.html -->
 <div class="grid-item">
-  <a href="{{ item.redirect | default: item.url | relative_url }}">
-    <div class="card hoverable">
-      <div class="card-body">
-        <h2 class="card-title">{{ item.title }}</h2>
-        <p class="card-text">{{ item.description }}</p>
-        <p class="card-meta">{{ item.category }}</p>
-      </div>
+  <a href="{{ item.redirect | default: item.url | relative_url }}" class="project-card">
+    {% if item.img %}
+      <img src="{{ item.img | relative_url }}" alt="thumbnail for {{ item.title }}" class="project-image">
+    {% endif %}
+    <div class="project-content">
+      <div class="project-title">{{ item.title }}</div>
+      {% if item.description %}
+        <div class="project-description">{{ item.description }}</div>
+      {% endif %}
     </div>
   </a>
 </div>

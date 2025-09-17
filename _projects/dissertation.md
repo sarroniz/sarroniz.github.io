@@ -1,15 +1,21 @@
 ---
 layout: page
 title: Ph.D. Dissertation
-description: 
-img: assets/img/12.jpg
+description:
+img: assets/img/diss_ppt.png
 importance: 1
-category: dissertation
+category: research
 related_publications: 
 ---
-### MORE THAN FRICATION: 
-### COMPENSATORY CUES OF /S/ REDUCTION IN VOICED STOP CONSONANTS IN WESTERN ANDALUSIAN SPANISH 
 
+### **COMPENSATORY CUES OF /S/ REDUCTION IN VOICED STOP CONSONANTS IN WESTERN ANDALUSIAN SPANISH**
+
+---
+##### You can access the PDF version through [ProQuest](https://www.proquest.com/docview/3207606346/4123D4CE98524A6DPQ/1?accountid=452&sourcetype=Dissertations%20&%20Theses)
+
+---
+
+#### Abstract
 The primary aim of this dissertation is to examine the fricativization of voiced stops as a compensatory process of coda /s/ lenition from both a productive and a perceptual perspective in Western Andalusian Spanish (WAS). It revolves around two main research questions with two distinct goals: first, to provide a linguistic analysis of the phonetic realization of /s/ + voiced stops /b d g/ in WAS; and second, to examine how phonemic /s/ + voiced stops /b d g/ are perceived in WAS. 
 
 
