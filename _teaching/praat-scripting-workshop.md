@@ -4,6 +4,7 @@ title: Introduction to Praat Scripting
 description: Linguistics Club Workshop (Fall 2026)
 category: workshops
 importance: 2
+permalink: /teaching/praat_scripting/
 img: /assets/img/praat-workshop.png
 ---
 

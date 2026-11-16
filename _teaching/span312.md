@@ -4,7 +4,7 @@ title: Spanish Phonetics and Phonology
 description: SPAN 312 (Fall 2025)
 category: UNR
 importance: 1
-redirect: /teaching/span312/
+permalink: /teaching/span312/
 img: /assets/img/6.jpg
 ---
 
