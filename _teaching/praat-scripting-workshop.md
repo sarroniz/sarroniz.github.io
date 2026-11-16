@@ -8,28 +8,8 @@ permalink: /teaching/praat_scripting/
 img: /assets/img/praat-workshop.png
 ---
 
-## Workshop Description
-A one-hour, hands-on introduction to scripting in Praat, offered for the Linguistics Club at the University of
-Nevada, Reno. Participants learn how to turn the clicks they already make in Praat into scripts that measure
-many files at once, consistently and reproducibly.
-
-## Workshop Overview
-The workshop is designed for a mixed audience, from students who have never opened Praat to students who have
-used it in a phonetics class or have already run a script. We start with how Praat's windows work, move on to
-the building blocks of almost every script (commands, variables, loops and TextGrid queries), and finish by
-measuring the duration, F1 and F2 of 16 vowels in a single click. Every exercise has a **Core** task for
-everyone and a **Level up** task for those who finish early.
-
-## Learning Outcomes
-By the end of the workshop, participants will be able to:
-- LO1: Explain what a Praat script is and why scripting makes acoustic analysis faster, more consistent and
-reproducible.
-- LO2: Use *Paste history* to turn manual actions into script commands.
-- LO3: Read and write Praat commands, matching each argument to a field in the command's dialog.
-- LO4: Use numeric and string variables, `for` loops and `if` statements.
-- LO5: Query TextGrid tiers and intervals to find and measure labeled segments.
-- LO6: Write a batch script that measures a folder of sound files, saves the results to a CSV file, and check
-that output for measurement errors.
+A hands-on introduction to scripting in Praat, offered for the Linguistics Club at the University of
+Nevada, Reno. The workshop is designed for a mixed audience. We start with how Praat's windows work, move on to the building blocks of almost every script (commands, variables, loops and TextGrid queries), and finish by measuring the duration, F1 and F2 of 16 vowels in a single click. Every exercise has a **Core** task for everyone and a **Level up** task for those who finish early.
 
 ## Workshop Materials
 - **Slides:** [PDF]({{ '/assets/pdf/praat-scripting-workshop.pdf' | relative_url }})
@@ -55,14 +35,14 @@ it with **Cmd+R** (Mac) or **Ctrl+R** (Windows).
 
 ## Schedule
 
-| Part | Topic | Time |
-|---|---|---|
-| 1 | Why script? | 4 min |
-| 2 | Praat in five minutes: objects, editors and *Paste history* | 8 min |
-| 3 | Your first script: commands, arguments and Exercise 1 | 12 min |
-| 4 | Variables, loops and TextGrids: Exercise 2 and two quick quizzes | 15 min |
-| 5 | Batch processing: measure a whole folder (Exercise 3) | 15 min |
-| 6 | Wrap-up: common errors and where to go next | 6 min |
+| Part | Topic |
+|---|---|
+| 1 | Why script? |
+| 2 | Praat in five minutes: objects, editors and *Paste history* |
+| 3 | Your first script: commands, arguments and Exercise 1 |
+| 4 | Variables, loops and TextGrids: Exercise 2 and two quick quizzes |
+| 5 | Batch processing: measure a whole folder (Exercise 3) |
+| 6 | Wrap-up: common errors and where to go next |
 
 ---
 

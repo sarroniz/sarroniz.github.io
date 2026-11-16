@@ -5,7 +5,7 @@ permalink: /teaching/
 description: materials for courses I currently teach or taught in the past
 nav: true
 nav_order: 5
-display_categories: [UNR, IU, workshops, other]
+display_categories: [UNR, workshops, IU, other]
 horizontal: false
 ---
 
