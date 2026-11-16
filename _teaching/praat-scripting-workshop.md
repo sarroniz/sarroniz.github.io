@@ -64,11 +64,6 @@ object, *To Pitch* a Pitch object, and so on.
 - **Editor window** (*View & Edit*). Waveform, spectrogram and TextGrid tiers: this is where you look at
 sounds and annotate them.
 
-![Waveform, spectrogram with formant tracks, and TextGrid of the word heed]({{ '/assets/img/praat-workshop.png' | relative_url }})
-
-*The word heed (F1_heed.wav) in Praat's editor view: waveform, spectrogram with formant tracks, and the word
-and phone tiers of its TextGrid.*
-
 A script talks to the Objects window: it selects objects and presses their buttons, just like you do.
 
 ### Every click is a command
