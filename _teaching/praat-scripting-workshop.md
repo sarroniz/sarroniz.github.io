@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Praat Scripting
 description: Linguistics Club Workshop (Fall 2026)
-category: UNR
+category: workshops
 importance: 2
 img: /assets/img/praat-workshop.png
 ---
